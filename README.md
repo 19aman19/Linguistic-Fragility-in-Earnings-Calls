@@ -196,7 +196,7 @@ We report these prominently in the paper:
 @article{author2026adversarial,
   title={Adversarial Signals: How Earnings Call Language Predicts 
          Equity Underperformance in Stressed Firms},
-  author={[Author Name]},
+  author={[Aman Shajee]},
   journal={SSRN Working Paper},
   year={2026},
   url={https://ssrn.com/abstract=XXXXXXX}
