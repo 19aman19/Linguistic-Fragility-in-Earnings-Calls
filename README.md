@@ -207,6 +207,8 @@ We report these prominently in the paper:
 
 ## Contact
 
-[Author Name] · [email@university.edu] · [University]
+AMAN SHAJEE · aman0039@e.ntu.edu.sg · Nanyang Technological University
 
 *Preliminary draft — please do not cite without permission.*
+
+
